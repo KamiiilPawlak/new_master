@@ -1,4 +1,4 @@
-from pydantic import BaseModel, field_validator, Field
+from pydantic import BaseModel, field_validator
 from datetime import datetime
 from typing import Generic, TypeVar
 from random import randint

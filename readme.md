@@ -26,6 +26,8 @@ print(sum_all(3, 18, 23.4, 9, 16.6))
 
 ```
 
+link to the github: [https://github.com/KamiiilPawlak](# link )
+
 1. t1
 2. t2
 3. t3

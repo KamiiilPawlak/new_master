@@ -4,9 +4,27 @@
 
 - I'm adding this from `XD`
 - "Im adding now `print("hello world")`
+
   > Testowe
 
-* kursywa
+  _kursywa_
+
+**pogrubienie**
+
+```
+Number = TypeVar("Number", int, float)
+
+def sum_all(*args: Number) -> Number:
+    sum: Number = 0
+    for i in args:
+        sum+=i
+
+    return sum
+
+
+print(sum_all(3, 18, 23.4, 9, 16.6))
+
+```
 
 1. t1
 2. t2
